@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pankajraut2611/backend-project/issues"
   },
-  "homepage": "https://github.com/pankajraut2611/backend-project#readme"
+  "homepage": "https://github.com/pankajraut2611/backend-project#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
